@@ -3,7 +3,7 @@ instructions to run this
 
 0th
 
-npm i
+pip3 install .
 
 1st
 
